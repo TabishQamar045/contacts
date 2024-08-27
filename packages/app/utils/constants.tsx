@@ -1,0 +1,45 @@
+export const userInfo = [
+  {
+    id: '1',
+    socialPlatform: 'Sim Contact',
+    joiningTime: '07:44 PM',
+    userImage: 'P1',
+    userName: 'Shoaib Ali',
+  },
+  {
+    id: '2',
+    socialPlatform: 'Twitter',
+    joiningTime: '07:44 PM',
+    userImage: 'P2',
+    userName: 'Paul Dybala',
+  },
+  {
+    id: '3',
+    socialPlatform: 'Facebook',
+    joiningTime: '07:44 PM',
+    userImage: 'P3',
+    userName: 'Panjnic',
+  },
+  {
+    id: '4',
+    tag: 'Favorite',
+    socialPlatform: 'Sim Contact',
+    joiningTime: '07:44 PM',
+    userImage: 'P4',
+    userName: 'Gavi',
+  },
+  {
+    id: '5',
+    socialPlatform: 'Twitter',
+    joiningTime: '07:44 PM',
+    userImage: 'P5',
+    userName: 'Jamal Musiala',
+  },
+  {
+    id: '6',
+    socialPlatform: 'Facebook',
+    joiningTime: '07:44 PM',
+    userImage: 'P6',
+    userName: 'Joe Clarke',
+  },
+]
